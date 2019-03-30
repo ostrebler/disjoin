@@ -1,0 +1,19 @@
+{
+  "name": "disjoin",
+  "version": "1.0.0",
+  "description": "Splits any set of interval into a minimal set of disjoint intervals so that each interval from the first set can be expressed by unions between intervals from the second set.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ostrebler/disjoin.git"
+  },
+  "author": "ostrebler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ostrebler/disjoin/issues"
+  },
+  "homepage": "https://github.com/ostrebler/disjoin#readme"
+}
