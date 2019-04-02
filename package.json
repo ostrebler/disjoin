@@ -4,7 +4,7 @@
   "description": "Splits any set of interval into a minimal set of disjoint intervals so that each interval from the first set can be expressed by unions between intervals from the second set.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -12,8 +12,6 @@
   },
   "author": "ostrebler",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ostrebler/disjoin/issues"
-  },
-  "homepage": "https://github.com/ostrebler/disjoin#readme"
+  "homepage": "https://github.com/ostrebler/disjoin#readme",
+  "dependencies": {}
 }
